@@ -1,0 +1,114 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+    background: #5674cd;
+}
+.boton{
+    color: #d9d9d9;
+}
+.navbar-nav{
+    right: auto;
+}
+.frase{
+    font-size: 1.4em;
+    
+    color: #0400a8;
+    display: inline-block;
+}
+.imagenHome{
+    float: right;
+   margin-bottom: 50px;
+    padding-top: 10px;
+}
+.pie{
+
+    background: #5674cd;
+    padding-top: 10px;
+   
+}
+
+.navbar-collapse{
+    direction: rtl;
+    margin-right: 2%;
+}
+.navbar-brand{
+    margin-left: 6%;
+}
+main{
+  
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.seccionGaleria{
+    display: block;
+}
+.fraseGal{
+    margin-left: 20%;
+    font-size: 2em;
+    color: #0400a8;
+    display: inline-block;
+}
+.imagenesUno{
+    padding-bottom: 25px;
+    display: -webkit-box;
+}
+.imagenesDos{
+    padding-bottom: 25px;
+    display: -webkit-box;
+}
+.imagenesTres{
+    padding-bottom: 25px;
+    display: -webkit-box;
+}
+.imgGal{
+    padding-right: 5px;
+}
+
+.imagUlti{
+        margin-left: 5px;
+}
+.carousel-inner img {
+  height: 100%;
+    width: 100%;
+}
+#demo{
+    padding-bottom: 25px;
+}
+body background-image{
+    width: 100px;
+}
+.fraseCom{
+   
+    font-size: 1em;
+    color: #0400a8;
+    display: inline-block;
+}
+.mapa{
+    
+    padding-top: 5%;
+}
+h2 {
+  color: #026fff; 
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  font-size: 4em;
+  margin-bottom: 40px;
+}
+.formu{
+    display: inline;
+    color: #026fff;
+    font-size: 2.2em;
+        
+}
+.formuDiv{
+    padding-bottom: 10px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+#calesitaDos{
+    padding-bottom: 5%;
+}
