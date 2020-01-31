@@ -75,6 +75,13 @@ main{
 #demo{
     padding-bottom: 25px;
 }
+body{
+    background-image: url(../imagenes/Imagen_china_de_fondo.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: 100% 100%;
+}
 body background-image{
     width: 100px;
 }
